@@ -3,7 +3,7 @@
  
 ## Usage
  - Insertion of the 2 coefficients and constant;
- - "'X' button to close the program.
+ - 'X' button to close the program.
 
 ## Note
  - Huge numbers will lead to an integer overflow.
