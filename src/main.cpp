@@ -350,8 +350,7 @@ int main()
 
     std::cout << "Press 'X' button to close the program." << std::endl;
 
-    while (true)
-    {
+    while (true){
         std::cin.get();
     }
 }
